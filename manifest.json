@@ -1,0 +1,26 @@
+{
+	"author": "Dibyenducode",
+	"name": "Dibyenducode",
+	"short_name": "Dibyenducode",
+	"description": "Time",
+	"orientation": "portrait",
+	"start_url": "/",
+	"scope": "/",
+	"display": "standalone",
+	"background_color": "#23e03f",
+	"theme_color": "#238ee0",
+	"icons": [
+		{
+			"src": "/s_logo2.png",
+			"sizes": "48x48 72x72 96x96 128x128 192x192 256x256 512x512",
+			"type": "image/png"
+		}
+	],
+	"manifest_version": 2,
+	"version": "0.1",
+	"applications": {
+		"gecko": {
+			"id": "playcocno1@gmail.com"
+		}
+	}
+}
